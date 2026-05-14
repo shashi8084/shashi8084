@@ -16,6 +16,6 @@ I am Shashi Shekhar Sharma<br>> B.Tech CSE Student | Cyber Security Specialist<b
 ![](https://github-profile-trophy.vercel.app/?username=shashi8084&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=shashi8084&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://komarev.com/ghpvc/?username=shashi8084&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
